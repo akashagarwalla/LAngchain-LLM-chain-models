@@ -1,0 +1,3 @@
+openai
+langchain
+streamlit  ## used to create an end-to-end application
